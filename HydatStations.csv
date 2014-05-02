@@ -1,7 +1,0 @@
-Station, Fav, StationName, HydStatus, Prov, Latitude, Longitude, DrainageArea, Years, From, To, Reg., Flow, Level, Sed, OperSched, RealTime, RHBN, Region, Datum, Agency
- ,  ,  ,  ,  , Degrees, Degrees, km²,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
-08LA001, True, CLEARWATER RIVER NEAR CLEARWATER STATION, Active, BC, 51.64944, -120.0664, 10300, 76, 1914, 2010, False, True, False, True, Continuous, False, True, VANCOUVER, ASSUMED DATUM, WATER SURVEY OF CANADA (DOE) (CANADA)
-08LB047, True, NORTH THOMPSON RIVER AT BIRCH ISLAND, Active, BC, 51.60278, -119.9153, 4490, 51, 1960, 2010, False, True, False, False, Continuous, False, False, VANCOUVER, ASSUMED DATUM, WATER SURVEY OF CANADA (DOE) (CANADA)
-
-DISCLAIMER
-"NOTICE: This application and its data are provided AS-IS.  In no event shall Environment Canada be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of, or inability to use this Environment Canada product, even if Environment Canada has been advised of the possibility of such damages."
